@@ -35,3 +35,8 @@ if (num1 == 7)
 {
     Console.WriteLine("воскресенье");
 }
+
+else 
+{
+    Console.WriteLine("нет такого дня недели"); 
+}
